@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">QuanLyNhanVien</string>
+    <string name="txtLogin">Đăng nhập</string>
+    <string name="txtUser">Tên đăng nhập</string>
+    <string name="txtPass">Mật khẩu</string>
+    <string name="txtExit">Thoát</string>
+    <string name="txtHeader">Quản lý nhân viên</string>
+    <string name="txtListSV">Danh sách nhân viên</string>
+    <string name="txtListClass">Danh sách phòng ban</string>
+    <string name="txtAlertLogin">Tên tài khoản của bạn hoặc Mật khẩu không đúng, vui lòng thử lại</string>
+    <string name="txtStu_Id">MSNV</string>
+    <string name="txtStu_Class">Phòng ban</string>
+    <string name="txtStu_Date">Lương</string>
+    <string name="txtStu_Place">SĐT</string>
+    <string name="txtStu_Sex">Giới tính</string>
+    <string name="txtDelet">Bạn có muốn xóa không?</string>
+    <string name="txtCancel">Hủy</string>
+    <string name="txtID">Mã phòng ban</string>
+    <string name="txtName">Tên phòng ban</string>
+    <string name="txtSave">lưu</string>
+    <string name="txtAdd">Thêm</string>
+    <string name="txtChange">Bạn không được đổi mã!</string>
+    <string name="map_api_key">AIzaSyB-XwdjAzK1PgBh1XisApsS3d3m8vxVWoU</string>
+    <string name="txtCheckID">Mã đã tồn tại!</string>
+</resources>

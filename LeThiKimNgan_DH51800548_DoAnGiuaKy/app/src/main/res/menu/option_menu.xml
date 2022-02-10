@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <item android:title="Danh sách phòng ban"
+        android:id="@+id/mnuDSPB"/>
+    <item android:title="Danh sách nhân viên"
+        android:id="@+id/mnuDSNV"/>
+    <item android:title="Exit"
+        android:id="@+id/mnuExit"/>
+
+</menu>
